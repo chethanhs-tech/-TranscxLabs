@@ -210,7 +210,7 @@ const LandingPage = () => {
             Connect With Us for More Updates
           </div>
           <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-6 text-sm font-medium">
-            <a href="https://www.linkedin.com/in/aditya-aradhya-tm-9720b5204" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors cursor-pointer border-b border-foreground/30 hover:border-foreground pb-0.5">Aditya T M</a>
+            <a href="https://www.linkedin.com/in/chethan-hs-05b19b334/" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors cursor-pointer border-b border-foreground/30 hover:border-foreground pb-0.5">Chethan HS</a>
             <span className="text-muted-foreground/40">•</span>
             <a href="https://www.linkedin.com/in/shashank-bhavihalli/" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors cursor-pointer border-b border-foreground/30 hover:border-foreground pb-0.5">Shashank B</a>
             <span className="text-muted-foreground/40">•</span>
